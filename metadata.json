@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS AI",
+  "description": "Advanced multi-agent intelligence workspace with deep-dive chats, research operations, document parses, visually built automations, and live system metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
